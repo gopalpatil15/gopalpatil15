@@ -47,8 +47,7 @@ Python · TensorFlow · OpenCV · FastAPI · Streamlit · PySide6 · SQLite · G
 
 ### 🤝 Connect With Me  
 <p align="center">
-  <a href="www.linkedin.com/in/gopal-patil-b46074242"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:bhamaregopal1573@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+   <a href="mailto:bhamaregopal1573@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
   <a href="https://github.com/gopalpatil15"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white"></a>
 </p>
 
