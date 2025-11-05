@@ -12,7 +12,7 @@ Focused on turning ideas into usable, deployable tools with **FastAPI**, **Strea
 ---
 
 ### 🔧 Projects  
-### 🔧 Projects  
+
 - **Violence Detection App** – Real-time video analysis using TensorFlow + OpenCV  
   🔗 Demo & Code → https://github.com/gopalpatil15/Violence-Detection
 
