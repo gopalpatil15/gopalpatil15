@@ -12,10 +12,18 @@ Focused on turning ideas into usable, deployable tools with **FastAPI**, **Strea
 ---
 
 ### 🔧 Projects  
+### 🔧 Projects  
 - **Violence Detection App** – Real-time video analysis using TensorFlow + OpenCV  
-- **AI Gym Trainer** – Posture correction and rep counting with MediaPipe + Streamlit  
-- **NLQ-Engine** – Natural language database queries with LLM integration  
-- **Billing System (PySide6)** – Used personally for 150+ invoices  
+  🔗 Demo & Code → https://github.com/gopalpatil15/Violence-Detection
+
+- **AI Gym Trainer** – Real-time posture correction with MediaPipe + Streamlit  
+  🔗 Demo & Code → https://github.com/gopalpatil15/AI-Gym-Trainer
+
+- **NLQ-Engine** – Natural language queries to database (LLM + FastAPI)  
+  🔗 Demo & Code → https://github.com/gopalpatil15/NLQ-Engine
+
+- **Billing System (PySide6)** – Used personally for 150+ real invoices  
+  🔗 Demo & Code → https://github.com/gopalpatil15/Billing-System
 
 ---
 
