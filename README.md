@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Gopal Patil</h1>
+<h1 align="center"> Hi, I'm Gopal Patil</h1>
 <p align="center">
 🎓 <b>B.Tech IT (2025)</b> | 🤖 <b>AI/ML & Computer Vision Developer</b>
 </p>
@@ -28,7 +28,8 @@ Focused on turning ideas into usable, deployable tools with **FastAPI**, **Strea
 ---
 
 ### 🏆 Achievements  
-- **Oracle Cloud Infrastructure 2025 — AI Foundations Associate**<br><a href="mailto:bhamaregopal1573@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+- **Oracle Cloud Infrastructure 2025 — AI Foundations Associate (Score: 98%)**  
+<a href="https://github.com/gopalpatil15/gopalpatil15/blob/main/GOPALPAILCERTIFICATE_page-0001.jpg"><img src="https://img.shields.io/badge/View Certificate-blue?style=flat-square&logo=oracle&logoColor=white"></a>
 - Contributed to a **research paper** on AI automation  
 
 ---
