@@ -28,7 +28,7 @@ Focused on turning ideas into usable, deployable tools with **FastAPI**, **Strea
 ---
 
 ### 🏆 Achievements  
-- Scored **98% in Oracle Generative AI Exam** *(awaiting certificate)*  
+- **Oracle Cloud Infrastructure 2025 — AI Foundations Associate**<br><a href="mailto:bhamaregopal1573@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 - Contributed to a **research paper** on AI automation  
 
 ---
