@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Gopal Patil</h1>
 <p align="center">
-🎓 <b>B.Tech IT (2025)</b> | 🤖 <b>AI/ML & Computer Vision Developer</b>
+🎓 <b>B.Tech IT (2025)</b> | <b>AI/ML & Computer Vision Developer</b>
 </p>
 
 ---
@@ -14,16 +14,13 @@ Focused on turning ideas into usable, deployable tools with **FastAPI**, **Strea
 ### 🔧 Projects  
 
 - **Violence Detection App** – Real-time video analysis using TensorFlow + OpenCV  
-  🔗 Demo & Code → https://github.com/gopalpatil15/Violence-Detection
+  🔗 Demo & Code → [Link](https://github.com/gopalpatil15/Violence-Detection.git)
 
 - **AI Gym Trainer** – Real-time posture correction with MediaPipe + Streamlit  
-  🔗 Demo & Code → https://github.com/gopalpatil15/AI-Gym-Trainer
+  🔗 Demo & Code → [Link](https://github.com/gopalpatil15/Gym-AI-Trainer.git)
 
 - **NLQ-Engine** – Natural language queries to database (LLM + FastAPI)  
-  🔗 Demo & Code → https://github.com/gopalpatil15/NLQ-Engine
-
-- **Billing System (PySide6)** – Used personally for 150+ real invoices  
-  🔗 Demo & Code → https://github.com/gopalpatil15/Billing-System
+  🔗 Demo & Code → [Link](https://github.com/gopalpatil15/NLQ-Engine.git))
 
 ---
 
