@@ -20,7 +20,7 @@ Focused on turning ideas into usable, deployable tools with **FastAPI**, **Strea
   🔗 Demo & Code → [Link](https://github.com/gopalpatil15/Gym-AI-Trainer.git)
 
 - **NLQ-Engine** – Natural language queries to database (LLM + FastAPI)  
-  🔗 Demo & Code → [Link](https://github.com/gopalpatil15/NLQ-Engine.git))
+  🔗 Demo & Code → [Link](https://github.com/gopalpatil15/NLQ-Engine.git)
 
 ---
 
