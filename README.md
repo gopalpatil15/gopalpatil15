@@ -60,4 +60,11 @@ Python · TensorFlow · OpenCV · FastAPI · Streamlit · PySide6 · SQLite · G
 
 ---
 
+### 🌐 Availability  
+AI Engineer — I build deployable systems in **Computer Vision** and **LLM Automation**.  
+Open to **AI/ML internships**, **research internships**, and **junior AI engineer roles**.
+
+---
+
 <p align="center"><b>“Turning ideas into intelligent automation.”</b></p>
+
