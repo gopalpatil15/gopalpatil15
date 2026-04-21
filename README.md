@@ -8,4 +8,4 @@ Application Support Engineer | Python | APIs | SQL
 
 Tech: Python | FastAPI | SQL | PostgreSQL | Git | Linux
 
-📫 Reach me at: bhamaregopal1573@gmail.com
+📫 Reach me at: bhamaregopal2003@gmail.com
