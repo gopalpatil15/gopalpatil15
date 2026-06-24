@@ -1,11 +1,23 @@
-Application Support Engineer | Python | APIs | SQL
+## Hi, I'm Gopal Patil 👋
+Aspiring Data Engineer | Python · SQL · ETL · PostgreSQL
 
-2025 IT Graduate with hands-on experience in backend systems and API-based applications.
+B.Tech IT graduate (2025) building production-style
+data pipelines. 8 months of real financial data
+operations experience — managed Rs.8 crore+ in
+transaction verification and reconciliation.
 
-- Built NLQ Engine (Natural Language → SQL using RAG)
-- Developed REST APIs using FastAPI
-- Strong in debugging, API testing, and troubleshooting
+### 🔧 What I'm building
+- **India Payment Pulse** — End-to-end ETL pipeline
+  processing 10K+ UPI transactions daily with
+  PostgreSQL, SQLAlchemy, Airflow, and Streamlit
+- **Log Automation** — Data quality pipeline
+  detecting error patterns from application logs
 
-Tech: Python | FastAPI | SQL | PostgreSQL | Git | Linux
+### 🛠️ Tech Stack
+Python · SQL · pandas · NumPy · PostgreSQL ·
+SQLAlchemy · Apache Airflow · FastAPI · Streamlit
 
-📫 Reach me at: bhamaregopal2003@gmail.com
+### 📜 Certifications
+Oracle Cloud Infrastructure: AI Foundations Associate
+
+📫 bhamaregopal2003@gmail.com
