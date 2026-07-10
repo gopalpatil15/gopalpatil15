@@ -3,7 +3,7 @@ Aspiring Data Engineer | Python · SQL · ETL · PostgreSQL
 
 B.Tech IT graduate (2025) building production-style
 data pipelines. 8 months of real financial data
-operations experience — managed Rs.8 crore+ in
+operations experience — managed multi-crore+ in
 transaction verification and reconciliation.
 
 ### 🔧 What I'm building
