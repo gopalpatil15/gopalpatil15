@@ -3,7 +3,7 @@
 **Data Analyst | SQL · Python · Power BI · PostgreSQL**
 
 B.Tech IT (2025) with 8 months of hands-on financial data operations —
-verified and reconciled ₹8 crore+ in transactions, then automated that
+verified and reconciled multi-core in transactions, then automated that
 workflow with Python and SQL, saving 4+ hours of manual work daily.
 
 ### 🔧 Featured Project
